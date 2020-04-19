@@ -13,4 +13,4 @@ def check_power(x, y):
     else:
         print('False')
 
-check_power(27,3)
+check_power(18,3)

@@ -50,7 +50,8 @@ class FileCleaner:
         return list_of_words
     
 if __name__=='__main__':
-    path = r'datasets/Q8.txt'
+    print('Please enter the path to the text file::')
+    path = input()
     from Question_8 import FileCleaner
     fc = FileCleaner(path=path)
     string_of_char = fc.file_content

@@ -27,7 +27,8 @@ class DirectorySearch:
 if __name__ == '__main__':
     print('Provide the directory name to scan: ')
     directory = input()
-    print('Provide the suffix of the file names to scan: ')
+    print("Provide the suffix of the file names to scan in the format '.<extension>': ")
     suffix = input()
     ds = DirectorySearch(directory, suffix)
     list_of_files_with_suffix = ds.walk_directory()
+    print(list_of_files_with_suffix)

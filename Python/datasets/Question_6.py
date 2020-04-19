@@ -35,6 +35,6 @@ def any_uppercase5(s):
             return False
     return True
 
-test1 = "this Is a test"
+test1 = "this is a test"
 test2 = "THISISATEST"
-print(any_uppercase5(test2))
+print(any_uppercase4(test1))
