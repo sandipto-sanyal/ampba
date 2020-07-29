@@ -1,0 +1,1 @@
+To run this project open "DC10 Udemy scraper with explanations.ipynb". All the necessary package installation steps are mentioned in the notebook in cell 1. Run all the cells one by one to see the necessary outputs at the end of each step.
