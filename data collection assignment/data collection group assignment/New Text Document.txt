@@ -1,0 +1,19 @@
+Thank you Shivaji. Hi This is Sandipto.
+
+As mentioned earlier by Shivaji, for our project we have have decided to use Udemy.com for scraping our data.
+
+Since Udemy website dynamically loads price tags as users scroll down the webpage, we took help of Selenium for the scrolling, searching and pagination automations alongside Beautiful soup to parse the page HTMLs.
+
+The solution uses two loops: one takes up items from a user defined list of courses which is scalable in nature to incorporate any number of courses, another loop checks how many pages to scan for each course.
+
+In between these actions selenium performs some webpage automations like scrolling down to the bottom of the each page to load the price tags first.
+Then we are passing each page html to beautifulsoup to extract the necessary information.
+
+At the end we perform some basic Exploratory Data Analysis which will be taken up by Siddharth. Over to you siddharth.
+
+============================================================================
+
+Problems:
+1. Udemy uses lazy loading of price and course tags on scrolling. So used Selenium automations to do the scrolling part.
+2. Also while testing we saw due to probably some network latency selenium wasn't able to find some elements in the page. Did some troubleshooting how to send commands at Javascript level so that this errors were handled.
+3. Pagination was not erratic in nature due to network issues sometimes hence we needed a retry mechanism so as not to error out the code if it fails to click to next page button.
