@@ -1,0 +1,65 @@
+﻿SL No,Type,Width,Decimal,Variable Label,Variable Name,numeric_columns,non_numeric_columns
+1,Numeric,7,0,Serial Number,SL_NO,,SL_NO
+2,Numeric,2,0,State Code,ST_CODE,,ST_CODE
+3,Numeric,2,0,District Code,DIST_CODE,,DIST_CODE
+4,Numeric,4,0,Taluk/Mandal Code,TTM_CODE,,TTM_CODE
+5,Numeric,1,0,Sector Code,SECTOR_CODE,,SECTOR_CODE
+6,Numeric,6,0,Village/Town Code,VT_CODE,,VT_CODE
+7,Numeric,1,0,Has the unit worked for at least a day during Year 3?,WORKED_FOR_1D,,WORKED_FOR_1D
+8,String,10,0,"If code is No in item 7, year when the unit was closed",CLOSED_Y,,CLOSED_Y
+9,Numeric,10,0,"If code is Yes in item 7, duration of operation in months",OPER_DUR_MM,OPER_DUR_MM,
+10,Numeric,10,0,"If code is Yes in item 7, duration of operation in days",OPER_DUR_DD,,OPER_DUR_DD
+11,Numeric,1,0,Survey Code,SURVEY_CODE,,SURVEY_CODE
+12,Numeric,5,0,NIC Code,NIC_CODE,,NIC_CODE
+13,Numeric,4,0,Year of permanent registration,PERM_REG_Y,,PERM_REG_Y
+14,Numeric,1,0,Whether  registered under Factories ACT,FACTORY_ACT,,FACTORY_ACT
+15,Numeric,4,0,year of initial production,INIT_PROD_Y,,INIT_PROD_Y
+16,Numeric,1,0,is the unit SSI or SSSBE,UNIT_TYPE,,UNIT_TYPE
+17,Numeric,1,0,is the unit ancillary unit,ANCI_UNIT,,ANCI_UNIT
+18,Numeric,1,0,type of organisation,ORG_TYPE,,ORG_TYPE
+19,Numeric,1,0,whether the unit is a woman enterprise,WOMAN_ENT,,WOMAN_ENT
+20,Numeric,12,0,market value of fixed assets as on End of Year 3 in INR,MKT_VAL_FA,MKT_VAL_FA,
+21,Numeric,10,0,Original purchase value of plant and machinery physically installed as on End of Year 3 in INR,ORI_PURC_VAL_PM,ORI_PURC_VAL_PM,
+22,Numeric,4,0,Year of installation of Plant and Machinery,PM_INST_Y,,PM_INST_Y
+23,Numeric,7,0,Total number of employees,EMP_TOTAL,EMP_TOTAL,
+24,Numeric,7,0,Number of male employees,EMP_MALE,EMP_MALE,
+25,Numeric,7,0,Number of female employees,EMP_FEMALE,EMP_FEMALE,
+26,Numeric,7,0,Number of child employees,EMP_CHILD,EMP_CHILD,
+27,Numeric,7,0,Number of SC employees,EMP_SC,EMP_SC,
+28,Numeric,7,0,Number of ST employees,EMP_ST,EMP_ST,
+29,Numeric,7,0,Number of OBC employees,EMP_OBC,EMP_OBC,
+30,Numeric,7,0,Number of other employees,EMP_OTHER,EMP_OTHER,
+31,Numeric,1,0,Main source of power,POWER_SRC,,POWER_SRC
+32,Numeric,5,0,1st product code,PROD1_CODE,,PROD1_CODE
+33,Numeric,5,0,2nd product code,PROD2_CODE,,PROD2_CODE
+34,Numeric,5,0,3rd product code,PROD3_CODE,,PROD3_CODE
+35,Numeric,5,0,4th product code,PROD4_CODE,,PROD4_CODE
+36,Numeric,5,0,5th product code,PROD5_CODE,,PROD5_CODE
+37,Numeric,1,0,Nature of activity,ACTI_NATURE,,ACTI_NATURE
+38,Numeric,1,0,Nature of operation,OPER_NATURE,,OPER_NATURE
+39,Numeric,1,0,managed by(gender),MAN_BY,,MAN_BY
+40,Numeric,1,0,managed by (caste),MAN_CASTE,,MAN_CASTE
+41,Numeric,1,0,whether registered under single point registration scheme of NSIC,REG_UNDER_SPR,,REG_UNDER_SPR
+42,Numeric,1,0,whether accounts maintained,ACC_EXIST,,ACC_EXIST
+43,Numeric,1,0,whether the unit has a computer,COMP_EXIST,,COMP_EXIST
+44,Numeric,1,0,technical know how obtained from,KNOW_HOW,,KNOW_HOW
+45,Numeric,12,0,gross output for Year3(in Rs),GOP_Year3,GOP_Year3,
+46,Numeric,12,0,gross output for Year 2(in Rs),GOP_Year2,GOP_Year2,
+47,Numeric,12,0,gross output for Year 1(in Rs),GOP_Year1,GOP_Year1,
+48,Numeric,12,0,value of exports if any for Year 3 in Rs,VOE_Year3,VOE_Year3,
+49,Numeric,1,0,whether the enterprise has an outstanding loan End Year 3,OS_LOAN_Year3,,OS_LOAN_Year3
+50,Numeric,1,0,"outstanding loan from institutional sources like bank, state financial corporations and other  govt agencies",OS_INST_SRC,,OS_INST_SRC
+51,Numeric,1,0,outstanding loan from non institutional sources like money lenders friends and relatives,OS_NONINST_SRC,,OS_NONINST_SRC
+52,Numeric,12,0,net worth of the unit during Year 2 in Rs,NET_Year2,NET_Year2,
+53,Numeric,12,0,net worth of the unit during Year 3 in Rs,NET_Year3,NET_Year3,
+54,Numeric,1,0,whether the net worth of the unit in Year 3 less than or equal to half of the net worth during Year 2,NET_STATUS_Year2,,NET_STATUS_Year2
+55,Numeric,1,0,has there been a delay in the repayment of the principal or interest to the institutional sources for more than 12 months Ending Year 3,REPAYMENT_DELAY,,REPAYMENT_DELAY
+56,Numeric,1,0,has there been a continuous decline in the gross output compared to the previous 2 financial years,DECLINE_IN_GOP,,DECLINE_IN_GOP
+57,Numeric,1,0,Lack of demand,DMD_PROB,,DMD_PROB
+58,Numeric,1,0,Shortage of working capital,WORK_CAP_PROB,,WORK_CAP_PROB
+59,Numeric,1,0,Non availability of raw material,RAW_MTRL_PROB,,RAW_MTRL_PROB
+60,Numeric,1,0,Power shortage,POWER_RPOB,,POWER_RPOB
+61,Numeric,1,0,Labour problems,LABOUR_PROB,,LABOUR_PROB
+62,Numeric,1,0,Marketing problems,MKT_PROB,,MKT_PROB
+63,Numeric,1,0,equipment problems,EQUIP_PROB,,EQUIP_PROB
+64,Numeric,1,0,Management problems,MGMT_PROB,,MGMT_PROB
