@@ -1,0 +1,197 @@
+digraph tree {
+	"<__main__.BinaryTreeNode object at 0x0000019767E3A6A0>" [label="root-1
+A6A0
+rmse:5605.0
+xrange:(-5.0, 5.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767E6E670>" [label="L-2
+E670
+rmse:2592.0
+xrange:(-5.0, -0.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767C94E20>" [label="R-3
+4E20
+rmse:2592.0
+xrange:(0.0, 5.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767C032B0>" [label="L-4
+32B0
+rmse:124.0
+xrange:(-5.0, -2.5)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767EBA340>" [label="R-5
+A340
+rmse:879.0
+xrange:(-2.5, -0.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767D216A0>" [label="L-22
+16A0
+rmse:879.0
+xrange:(0.0, 2.5)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767C7E160>" [label="R-23
+E160
+rmse:124.0
+xrange:(2.5, 5.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767A8AB50>" [label="L-6
+AB50
+rmse:3.0
+xrange:(-5.0, -3.75)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767C7E0D0>" [label="R-7
+E0D0
+rmse:32.0
+xrange:(-3.75, -2.5)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767EE4A60>" [label="L-10
+4A60
+rmse:112.0
+xrange:(-2.5, -1.25)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767BE5BB0>" [label="R-11
+5BB0
+rmse:96.0
+xrange:(-1.25, -0.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767A46250>" [label="L-24
+6250
+rmse:96.0
+xrange:(0.0, 1.25)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767A53190>" [label="R-25
+3190
+rmse:112.0
+xrange:(1.25, 2.5)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767E3A460>" [label="L-36
+A460
+rmse:32.0
+xrange:(2.5, 3.75)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767E3A0A0>" [label="R-37
+A0A0
+rmse:3.0
+xrange:(3.75, 5.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767D112B0>" [label="L-8
+12B0
+rmse:3.0
+xrange:(-3.75, -3.13)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767A190A0>" [label="R-9
+90A0
+rmse:5.0
+xrange:(-3.12, -2.5)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767ED48E0>" [label="L-12
+48E0
+rmse:4.0
+xrange:(-2.5, -1.88)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767BCB910>" [label="R-13
+B910
+rmse:23.0
+xrange:(-1.87, -1.25)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767C197F0>" [label="L-16
+97F0
+rmse:13.0
+xrange:(-1.25, -0.63)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767D11580>" [label="R-17
+1580
+rmse:31.0
+xrange:(-0.62, -0.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767C94B80>" [label="L-26
+4B80
+rmse:31.0
+xrange:(0.0, 0.62)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767CB54C0>" [label="R-27
+54C0
+rmse:13.0
+xrange:(0.63, 1.25)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767D23F40>" [label="L-32
+3F40
+rmse:23.0
+xrange:(1.25, 1.87)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767CB8D60>" [label="R-33
+8D60
+rmse:4.0
+xrange:(1.88, 2.5)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767E04DC0>" [label="L-38
+4DC0
+rmse:5.0
+xrange:(2.5, 3.12)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767BBD820>" [label="R-39
+D820
+rmse:3.0
+xrange:(3.13, 3.75)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767C5C4F0>" [label="L-14
+C4F0
+rmse:2.0
+xrange:(-1.87, -1.56)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767DCC580>" [label="R-15
+C580
+rmse:3.0
+xrange:(-1.56, -1.25)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767E2CF70>" [label="L-18
+CF70
+rmse:3.0
+xrange:(-1.25, -0.94)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767E58B50>" [label="R-19
+8B50
+rmse:0.0
+xrange:(-0.94, -0.63)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767B82100>" [label="L-20
+2100
+rmse:3.0
+xrange:(-0.62, -0.31)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x00000197648D2AC0>" [label="R-21
+2AC0
+rmse:5.0
+xrange:(-0.31, -0.0)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767A3FA00>" [label="L-28
+FA00
+rmse:5.0
+xrange:(0.0, 0.31)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767BEEB80>" [label="R-29
+EB80
+rmse:3.0
+xrange:(0.31, 0.62)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767A4D880>" [label="L-30
+D880
+rmse:0.0
+xrange:(0.63, 0.94)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767D691C0>" [label="R-31
+91C0
+rmse:3.0
+xrange:(0.94, 1.25)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767CB8B50>" [label="L-34
+8B50
+rmse:3.0
+xrange:(1.25, 1.56)", shape=square]
+	"<__main__.BinaryTreeNode object at 0x0000019767D277C0>" [label="R-35
+77C0
+rmse:2.0
+xrange:(1.56, 1.87)", shape=square]
+
+	"<__main__.BinaryTreeNode object at 0x0000019767E3A6A0>" -> "<__main__.BinaryTreeNode object at 0x0000019767E6E670>"
+	"<__main__.BinaryTreeNode object at 0x0000019767E3A6A0>" -> "<__main__.BinaryTreeNode object at 0x0000019767C94E20>"
+	"<__main__.BinaryTreeNode object at 0x0000019767E6E670>" -> "<__main__.BinaryTreeNode object at 0x0000019767C032B0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767E6E670>" -> "<__main__.BinaryTreeNode object at 0x0000019767EBA340>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C94E20>" -> "<__main__.BinaryTreeNode object at 0x0000019767D216A0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C94E20>" -> "<__main__.BinaryTreeNode object at 0x0000019767C7E160>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C032B0>" -> "<__main__.BinaryTreeNode object at 0x0000019767A8AB50>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C032B0>" -> "<__main__.BinaryTreeNode object at 0x0000019767C7E0D0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767EBA340>" -> "<__main__.BinaryTreeNode object at 0x0000019767EE4A60>"
+	"<__main__.BinaryTreeNode object at 0x0000019767EBA340>" -> "<__main__.BinaryTreeNode object at 0x0000019767BE5BB0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767D216A0>" -> "<__main__.BinaryTreeNode object at 0x0000019767A46250>"
+	"<__main__.BinaryTreeNode object at 0x0000019767D216A0>" -> "<__main__.BinaryTreeNode object at 0x0000019767A53190>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C7E160>" -> "<__main__.BinaryTreeNode object at 0x0000019767E3A460>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C7E160>" -> "<__main__.BinaryTreeNode object at 0x0000019767E3A0A0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C7E0D0>" -> "<__main__.BinaryTreeNode object at 0x0000019767D112B0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C7E0D0>" -> "<__main__.BinaryTreeNode object at 0x0000019767A190A0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767EE4A60>" -> "<__main__.BinaryTreeNode object at 0x0000019767ED48E0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767EE4A60>" -> "<__main__.BinaryTreeNode object at 0x0000019767BCB910>"
+	"<__main__.BinaryTreeNode object at 0x0000019767BE5BB0>" -> "<__main__.BinaryTreeNode object at 0x0000019767C197F0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767BE5BB0>" -> "<__main__.BinaryTreeNode object at 0x0000019767D11580>"
+	"<__main__.BinaryTreeNode object at 0x0000019767A46250>" -> "<__main__.BinaryTreeNode object at 0x0000019767C94B80>"
+	"<__main__.BinaryTreeNode object at 0x0000019767A46250>" -> "<__main__.BinaryTreeNode object at 0x0000019767CB54C0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767A53190>" -> "<__main__.BinaryTreeNode object at 0x0000019767D23F40>"
+	"<__main__.BinaryTreeNode object at 0x0000019767A53190>" -> "<__main__.BinaryTreeNode object at 0x0000019767CB8D60>"
+	"<__main__.BinaryTreeNode object at 0x0000019767E3A460>" -> "<__main__.BinaryTreeNode object at 0x0000019767E04DC0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767E3A460>" -> "<__main__.BinaryTreeNode object at 0x0000019767BBD820>"
+	"<__main__.BinaryTreeNode object at 0x0000019767BCB910>" -> "<__main__.BinaryTreeNode object at 0x0000019767C5C4F0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767BCB910>" -> "<__main__.BinaryTreeNode object at 0x0000019767DCC580>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C197F0>" -> "<__main__.BinaryTreeNode object at 0x0000019767E2CF70>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C197F0>" -> "<__main__.BinaryTreeNode object at 0x0000019767E58B50>"
+	"<__main__.BinaryTreeNode object at 0x0000019767D11580>" -> "<__main__.BinaryTreeNode object at 0x0000019767B82100>"
+	"<__main__.BinaryTreeNode object at 0x0000019767D11580>" -> "<__main__.BinaryTreeNode object at 0x00000197648D2AC0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C94B80>" -> "<__main__.BinaryTreeNode object at 0x0000019767A3FA00>"
+	"<__main__.BinaryTreeNode object at 0x0000019767C94B80>" -> "<__main__.BinaryTreeNode object at 0x0000019767BEEB80>"
+	"<__main__.BinaryTreeNode object at 0x0000019767CB54C0>" -> "<__main__.BinaryTreeNode object at 0x0000019767A4D880>"
+	"<__main__.BinaryTreeNode object at 0x0000019767CB54C0>" -> "<__main__.BinaryTreeNode object at 0x0000019767D691C0>"
+	"<__main__.BinaryTreeNode object at 0x0000019767D23F40>" -> "<__main__.BinaryTreeNode object at 0x0000019767CB8B50>"
+	"<__main__.BinaryTreeNode object at 0x0000019767D23F40>" -> "<__main__.BinaryTreeNode object at 0x0000019767D277C0>"
+}
